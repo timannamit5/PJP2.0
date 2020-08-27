@@ -50,6 +50,7 @@ public class controller {
 		String str = sc.nextLine();
 		//String str = "/home/krishna/Downloads/qw.csv";
 		controller c = new controller(str);
+		sc.close();
 	}
 	
 	
