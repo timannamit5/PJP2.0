@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS db;
+CREATE TABLE db(id serial PRIMARY KEY, input VARCHAR(255), output VARCHAR(255));
+
